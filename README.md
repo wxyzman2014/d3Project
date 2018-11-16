@@ -1,2 +1,3 @@
 # d3Project
-haha
+Haha This is our d3.js project for SVG diagram display
+Happy coding!
